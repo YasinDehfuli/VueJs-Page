@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "jquery": "^3.6.1",
+    "vue": "^3.2.39"
+  },
+  "name": "vuejs-page",
+  "description": "Full Vue-JS Page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasinDehfuli/VueJs-Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YasinDehfuli/VueJs-Page/issues"
+  },
+  "homepage": "https://github.com/YasinDehfuli/VueJs-Page#readme"
+}
